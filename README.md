@@ -42,7 +42,7 @@ To run the application on your machine, follow the steps below:
 ### Setting up the Application
 
 1. Download/ Clone the repository on your machine.
-2. Open the `project` folder `vidly` .
+2. Open the `project` folder `cd vidly` .
 3. Open the terminal at the root of the `src` folder (<kbd>Ctrl</kbd> + <kbd>shift</kbd> + <kbd>'</kbd>) and run `npm install` to install the project dependencies.
 4. Still in the terminal, run the command `npm start` to start the app .
 5. The application should open in your default browser at `http://localhost:3000`.

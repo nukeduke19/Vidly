@@ -79,7 +79,7 @@ The register tab will create a new user, so will not be able to delete a movie.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandlamanird19@gmail.com?subject=Hi "Hi!")
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-lamani-144506194 "Welcome")
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-lamani "Welcome")
 <br>
 <br>
 

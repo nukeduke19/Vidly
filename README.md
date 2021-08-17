@@ -47,7 +47,7 @@ To run the application on your machine, follow the steps below:
 4. Still in the terminal, run the command `npm start` to start the app .
 5. The application should open in your default browser at `http://localhost:3000`.
 
-### Login in the app
+<!-- ### Login in the app
 
 | Type  | username       | password |
 | ----- | -------------- | -------- |
@@ -56,7 +56,7 @@ To run the application on your machine, follow the steps below:
 
 ### Register tab
 
-The register tab will create a new user, so will not be able to delete a movie.
+The register tab will create a new user, so will not be able to delete a movie. -->
 
 ### Content of this course
 
